@@ -150,9 +150,10 @@ p {
 }
 
 .bottom-left {
-    bottom: 1;
+    bottom: 0;
     left: 0;
     z-index: 2;
+    margin-bottom: 25%;
 }
 
 /* ......BUNGA BELAKANG......*/
